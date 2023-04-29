@@ -1,0 +1,2 @@
+#!/bin/bash
+/www/wwwroot/mysql_pool/bin/SMProxy start --console
